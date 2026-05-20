@@ -6,6 +6,7 @@
 - An advanced version is currently in development. It supports launching and controlling various web browsers in stealth mode with smooth browser automation capabilities.
 - The project is planned to be released as open source in 2027.
 - If you would like early access before the public release, please contact me.
+
 [![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](./adv.mp4)
 
 **Related Project**
